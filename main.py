@@ -65,7 +65,3 @@ def get_text_messages(message, key1=None):
 
 
 bot.polling(none_stop=True, interval=0)
-
-
-
-
